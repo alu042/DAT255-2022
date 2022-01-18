@@ -1,0 +1,16 @@
+name: dat255-fruit
+channels:
+    - fastai
+    - pytorch
+    - defaults
+dependencies:
+- python>3.6
+- pytorch>=1.6
+- torchvision
+- pip
+- conda-forge::voila
+- pip:
+  - pip
+  - fastai==2.5.3
+  - ipywidgets
+  - kaggle
