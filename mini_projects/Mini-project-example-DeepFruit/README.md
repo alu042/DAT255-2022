@@ -44,10 +44,10 @@ The project consists of four notebooks
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
-|  [1.0-asl-collect_and_explore_data.ipynb](https://nbviewer.org/github/) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)|
-|  [2.0-asl-fruit_classifier.ipynb](https://nbviewer.org/github/) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)|
-|  [3.1-asl-fruit_classifer_app_v1.ipynb](https://nbviewer.org/github/) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)|
-|  [3.2-asl-fruit_classifer_app_v2.ipynb](https://nbviewer.org/github/) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)|
+|  [1.0-asl-collect_and_explore_data.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/mini_projects/Mini-project-example-DeepFruit/nbs/1.0-asl-collect_and_explore_data.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/mini_projects/Mini-project-example-DeepFruit/nbs/1.0-asl-collect_and_explore_data.ipynb)|
+|  [2.0-asl-fruit_classifier.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/mini_projects/Mini-project-example-DeepFruit/nbs/2.0-asl-fruit_classifier.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/mini_projects/Mini-project-example-DeepFruit/nbs/2.0-asl-fruit_classifier.ipynb)|
+|  [3.1-asl-fruit_classifer_app_v1.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/mini_projects/Mini-project-example-DeepFruit/nbs/3.1-asl-fruit_classifer_app_v1.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/mini_projects/Mini-project-example-DeepFruit/nbs/3.1-asl-fruit_classifer_app_v1.ipynb)|
+|  [3.2-asl-fruit_classifer_app_v2.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/mini_projects/Mini-project-example-DeepFruit/nbs/3.2-asl-fruit_classifer_app_v2.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/mini_projects/Mini-project-example-DeepFruit/nbs/3.2-asl-fruit_classifer_app_v2.ipynb)|
 
 
 
