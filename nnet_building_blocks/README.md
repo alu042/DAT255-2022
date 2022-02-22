@@ -6,10 +6,11 @@ A quick introduction to the building blocks of neural networks, and the construc
 
 ```bash
 ├── LICENSE
-├── README.md          <- The top-level README file
-├── data               <- Data used in the project
-├── nbs                <- Jupyter notebooks. 
-└── environment.yml    <- The requirements file for reproducing the Python environment
+├── README.md               <- The top-level README file
+├── data                    <- Data used in the project
+├── nbs                     <- Jupyter notebooks. 
+├── environment-gpu.yml     <- The requirements file for reproducing the Python environment, GPU version
+└── environment-cpu.yml     <- The requirements file for reproducing the Python environment, CPU version
 ``` 
 
 ## Run in Google Colab
