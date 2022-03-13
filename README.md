@@ -12,4 +12,6 @@ Various material used in the course DAT255 at HVL. More information can be found
 
 **[nnet_building_blocks](./nnet_building_blocks/)**: An introduction to the building blocks of neural networks (in PyTorch)
 
+**[CNN_feature_extraction](./CNN_feature_extraction/)**: Changing input representations and extracting learned representations from deep neural networks
+
 _More TBA_
