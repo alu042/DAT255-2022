@@ -14,4 +14,6 @@ Various material used in the course DAT255 at HVL. More information can be found
 
 **[CNN_feature_extraction](./CNN_feature_extraction/)**: Changing input representations and extracting learned representations from deep neural networks
 
+**[TensorFlow-crash_course](./TensorFlow-crash_course)**: A very quick introduction to TensorFlow and Keras.
+
 _More TBA_
