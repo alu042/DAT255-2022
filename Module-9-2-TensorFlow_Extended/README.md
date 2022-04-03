@@ -2,7 +2,7 @@
 
 This part of Module 9 gives an introduction to modern machine learning pipelines. Through a set of six notebooks, we'll interactively step through the construction of an ML pipeline in TensorFlow Extended.
 
-Through these notebooks and the accompanying lectures you will be exposed to some of the common components in industry-level ML pipelines. 
+Through these notebooks and the accompanying lectures, you will be exposed to some of the common components in industry-level ML pipelines. 
 
 > You can find a much more comprehensive coverage in the TensorFlow Extended guide: https://www.tensorflow.org/tfx/guide. It's highly recommended to consult this as you go through the notebooks in this tutorial. 
 
