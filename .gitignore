@@ -10,3 +10,5 @@ __MACOSX/
 .ipynb_checkpoints
 
 *tfevents*
+Module-9-1-TensorFlow-crash_course/nbs/model.png
+Module-9-1-TensorFlow-crash_course/nbs/path.pkl
