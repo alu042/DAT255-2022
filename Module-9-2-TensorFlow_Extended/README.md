@@ -12,7 +12,7 @@ Through these notebooks and the accompanying lectures, you will be exposed to so
 |:----------|------|
 |  [0.0-prepare_data.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/0.0-prepare_data.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/0.0-prepare_data.ipynb)
 | [1.0-data_ingestion.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/1.0-data_ingestion.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/1.0-data_ingestion.ipynb)|
-| [2.0-data_validation.ipynb]() | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| [2.0-data_validation.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/2.0-data_validation) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/2.0-data_validation.ipynb) |
 | [3.0-data_preprocessing.ipynb]() | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 | [4.0-ML_models.ipynb]() | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 | [5.0-model_analysis.ipynb]() | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
