@@ -16,6 +16,4 @@ Through these notebooks and the accompanying lectures, you will be exposed to so
 | [3.0-data_preprocessing.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/3.0-data_preprocessing.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/3.0-data_preprocessing.ipynb)|
 | [4.0-ML_models.ipynb](https://nbviewer.org/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/4.0-ML_models.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT255-2022/blob/master/Module-9-2-TensorFlow_Extended/nbs/4.0-ML_models.ipynb)|
 | [5.0-model_analysis.ipynb]() | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
-| [6.0-model_deployment.ipynb]() | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
-| [~/ML_pipeline_example/]() | _See the linked directory_ |
 ---
